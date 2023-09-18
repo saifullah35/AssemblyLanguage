@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Fibonacci
+comment1.params=nthNumber
+comment1.target=int\ fibonacciRecursion(int)
+comment2.params=nthNumber
+comment2.target=int\ fibonacciLoop(int)
+comment3.params=number
+comment3.target=void\ compare(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
